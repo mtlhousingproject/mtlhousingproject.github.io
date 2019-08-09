@@ -21,6 +21,6 @@ All data in this project is publicly available and accessible through alternativ
 
 *Insert clause about data accuracy**
 
-This project is in it\'92s early stages.
+This project is in it's early stages.
 
 Contact: mgnwylie3@gmail.com (temporary contact).

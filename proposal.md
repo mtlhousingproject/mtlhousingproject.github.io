@@ -18,7 +18,7 @@ This project aims to make a web interface where one can search their apartment a
 ## Issues to consider:
 •	Walsh, C. A., Hanley, J., Ives, N., & Hordyk, S. R. (2016). Exploring the experiences of newcomer women with insecure housing in Montréal Canada. Journal of International Migration and Integration, 17(3), 887-904.
 
-### Threats:
+### Threats to housing in Montreal:
 •	https://www.mcgill.ca/urbanplanning/people-0/wachsmuth
 
 ## Project Summary:
@@ -64,15 +64,15 @@ People who access this website will be able to search their address to find data
 All data in this project is publicly available and accessible through alternative websites and domains. One of the key data providers is Portail donnees ouvertes Montreal, Montreal '92s open data portal.
 *Insert clause about data accuracy**
 
-This project is in it '92s early stages.
+This project is in it's early stages.
 
 Contact: mgnwylie3@gmail.com (temporary contact).
 
 
 
-PAGE 3: HOW IT WORKS
+## PAGE 3: HOW IT WORKS
 
-Data Sources:
+### Data Sources:
 https://ville.montreal.qc.ca/portal/page?_pageid=5977,42203564&_dad=portal&_schema=PORTAL
 
-Upcoming datasets:
+### Upcoming datasets:
